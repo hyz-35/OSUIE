@@ -1,6 +1,6 @@
 <div align=left><div>
 
-# OUIEDM: Underwater Image Enhancement with One-step Diffusion Model
+# OSUIE: Underwater Image Enhancement with One-step Diffusion Model
 
 <div align=left><div>
 
