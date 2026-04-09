@@ -22,3 +22,4 @@ To install the required environment, you can use `requirements.txt` with the fol
 ```python
 pip install -r requirements.txt
 
+## Underwater Enhancement and dehazing <div align=center><img src="images_effect\effect.jpg" width="500" height="400" > <img src="images_effect\effect.gif" width="500" height="400" > <div align=left><div>
