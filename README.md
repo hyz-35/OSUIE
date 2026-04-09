@@ -1,6 +1,6 @@
 <div align=left><div>
 
-# OSUIE: Underwater Image Enhancement with One-step Diffusion Model
+# Bridging Efficiency and Quality: A One-Step Diffusion Model for Underwater Image Enhancement
 
 <div align=left><div>
 
