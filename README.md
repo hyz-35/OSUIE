@@ -14,7 +14,7 @@ We use a real-world underwater video captured by an underwater camera in Shenzhe
 ## Testing
 You can download the pretrained models from [Google Drive].
 
-After downloading, extract the pretrained models into the project folder and replace the `checkpoint` folder, then run `test_OUIEDM.py`.  
+After downloading, extract the pretrained models into the project folder and replace the `checkpoint` folder, then run `test_OSUIE.py`.  
 The code will automatically process all images in your input folder using the pretrained model and save the enhanced results to your output folder.
 
 To install the required environment, you can use `requirements.txt` with the following command, or configure the environment by yourself.
